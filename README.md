@@ -2,6 +2,8 @@
 
 
 
+\*\*Live demo:\*\* https://amazon-sentiment-bput.streamlit.app/
+
 Binary sentiment classification of Amazon Fine Food Reviews with TF-IDF and
 
 linear models, a leak-free evaluation, an analysis of errors and an
@@ -83,6 +85,8 @@ perfect, yummy\*. Bigrams capture negation (\*not good\*).
 
 
 !\[Negative words](assets/top\_negative.png)
+
+
 
 !\[Positive words](assets/top\_positive.png)
 
