@@ -10,3 +10,4 @@ outputs/
 .vscode/
 .idea/
 .DS_Store
+!models/sentiment.joblib
